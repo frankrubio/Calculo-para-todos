@@ -11,5 +11,6 @@ Páginas interactivas para repasar los temas del curso de Fundamentos del Cálcu
 5. Composición y función inversa
 6. Trigonometría
 7. Funciones sinusoidales
+10. Cónicas: circunferencia, parábola, elipse e hipérbola (`10_Conicas.html`)
 
 Las demás semanas se van agregando aquí a medida que las voy subiendo.
