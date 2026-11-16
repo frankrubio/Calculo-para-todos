@@ -11,6 +11,11 @@ Páginas interactivas para repasar los temas del curso de Fundamentos del Cálcu
 05. Composición y función inversa (`05_Composicion_y_funcion_inversa.html`)
 06. Trigonometría (`06_Trigonometria.html`)
 07. Funciones sinusoidales (`07_Funciones_sinusoidales.html`)
+09. Funciones exponenciales y logarítmicas (`09_Exponenciales_y_logaritmos.html`)
 10. Cónicas: circunferencia, parábola, elipse e hipérbola (`10_Conicas.html`)
+11. Vectores I: componentes, magnitud, dirección, suma, resta y aplicaciones en el plano (`11_Vectores_I.html`)
+12. Vectores II en 3D: escalar, vector unitario, componentes, suma y resta (`12_Vectores_II.html`)
+13. Vectores III en 3D: producto punto, ángulo, ortogonalidad y proyecciones (`13_Vectores_III.html`)
+14. Vectores IV en 3D: producto vectorial, área, volumen y torque (`14_Vectores_IV.html`)
 
 Las demás semanas se van agregando aquí a medida que las voy subiendo.
