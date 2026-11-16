@@ -13,3 +13,4 @@
 | Sem 10 | Cónicas | 2026-10-19 | 10_Conicas.html |
 | Sem 11 | Vectores I | 2026-11-15 | 11_Vectores_I.html |
 | Sem 12 | Vectores II | 2026-11-16 | 12_Vectores_II.html |
+| Sem 13 | Vectores III | 2026-11-16 | 13_Vectores_III.html |
